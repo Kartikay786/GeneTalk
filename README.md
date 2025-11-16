@@ -612,6 +612,7 @@ For issues, questions, or suggestions:
 
 ---
 
-**Made with ❤️ for the hackathon - GeneTalk Team**
+**Made with ❤️ for the hackathon - Street Crew Team**
 
 Last Updated: November 16, 2025
+
