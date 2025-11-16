@@ -5,7 +5,7 @@ GeneTalk is a comprehensive project that combines cutting-edge AI/ML models with
 ---
 
 ### 🎬 Quick Links
-> **[🔗 View Live Prototype Demo](https://genetalk.netlify.app)** | **[📹 Watch Video Explanation](https://youtu.be/genetalk-demo-video)**
+> **[🔗 View Live Prototype Demo](https://genetalk.netlify.app)** | **[📹 Watch Video Explanation](https://youtu.be/1xKyQouzM-k?si=1uPSYueXVnLEWcHR)**
 
 ---
 
@@ -615,4 +615,5 @@ For issues, questions, or suggestions:
 **Made with ❤️ for the hackathon - Street Crew Team**
 
 Last Updated: November 16, 2025
+
 
